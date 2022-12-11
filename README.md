@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there! I'm Dan!
+Be very welcome to my github! I'm a brazilian beginner developer, aspiring to become a mobile dev!
+Be comfort to send me messages and ask me for any help!
+
+### My technologies
+<!-- Git --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 height/>
+<!-- Kotlin --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=50 height=50/>
+<!-- Android Studio --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=50 height=50/>
+          
 
 <!--
 **DanVolles/DanVolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![card](https://github-readme-stats.vercel.app/api?username=danvolles&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br> [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=danvolles&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
