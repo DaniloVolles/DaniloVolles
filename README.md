@@ -1,6 +1,5 @@
 # Hello, world! I'm Dan!
-Be very welcome to my github!
-I'm a brazilian beginner developer, aspiring to become a mobile dev! <br>
+Be very welcome to my github! I'm a brazilian android developer! <br>
 Be comfort to send me messages and ask me for any help! <br>
 
 ### My technologies
