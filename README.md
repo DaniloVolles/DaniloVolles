@@ -1,8 +1,7 @@
 # Hello, world! I'm Dan!
-Be very welcome to my github! I'm a brazilian android developer! <br>
-Be comfort to send me messages and ask me for any help! <br>
+Welcome to my github! I'm a brazilian android developer! <br>
 
-### My technologies
+## My technologies
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"                       width=50 height=50/>   <!-- Git -->
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"   width=50 height=50/>   <!-- Android Studio -->
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"                  width=50 height=50/>   <!-- Android -->
