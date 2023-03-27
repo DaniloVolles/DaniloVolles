@@ -1,4 +1,6 @@
-# Olá, eu sou Danilo Volles!
+![Banner para Linkedin Tecnologia em Preto -FOOTER](https://user-images.githubusercontent.com/107259505/228077908-b1315e9e-2821-4848-99d2-380d425916e0.png)
+
+# Olá!
 
 Seja muito bem vindo ao meu GitHub! Sou um Desenvolvedor Android apaixonado e entusiasta! Adoro utilizar a tecnologia para realizar atividades com eficiência e organização, além de prezar bastante por ambientes cooperativos e proativos. <br>
 Na eterna descoberta sobre o que vem depois do novo bug que eu consegui resolver!
@@ -34,8 +36,6 @@ Na eterna descoberta sobre o que vem depois do novo bug que eu consegui resolver
 </a>   
 
 
-<div align="center">
-  
   ## Entre em contato:
 
   <!-- WhatsApp -->
@@ -52,5 +52,3 @@ Na eterna descoberta sobre o que vem depois do novo bug que eu consegui resolver
   <a href="https://www.linkedin.com/in/danilovolles/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-</div>
