@@ -1,42 +1,46 @@
-![Banner para Linkedin Tecnologia em Preto -FOOTER](https://user-images.githubusercontent.com/107259505/228077908-b1315e9e-2821-4848-99d2-380d425916e0.png)
+![Danilo Volles](https://github.com/user-attachments/assets/ece7c5fb-b245-401f-a244-2228098fc74c)
 
 # Olá!
 
-Seja muito bem vindo ao meu GitHub! Sou um Desenvolvedor Android apaixonado e entusiasta! Adoro utilizar a tecnologia para realizar atividades com eficiência e organização, além de prezar bastante por ambientes cooperativos e proativos. <br>
+Seja muito bem vindo ao meu GitHub! Sou um Desenvolvedor Java apaixonado e entusiasta! Adoro utilizar a tecnologia para realizar atividades com eficiência e organização, além de prezar bastante por ambientes cooperativos e proativos. <br>
 Na eterna descoberta sobre o que vem depois do novo bug que eu consegui resolver!
 
 > ### [:seedling: MEUS PROJETOS :deciduous_tree:](https://github.com/stars/DaniloVolles/lists/best-projects)
 
 ### Minhas tecnologias:
-> ##### KOTLIN ᠅ JAVA ᠅ ANDROID STUDIO ᠅ ANDROID ᠅ FIREBASE ᠅ JETPACK COMPOSE
+> ##### KOTLIN ᠅ JAVA ᠅ SPRING ᠅ TYPESCRIPT ᠅ NESTJS ᠅ POSTGRESQL
 
-<!-- Kotlin -->
-<a href="https://kotlinlang.org/">
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=50 height=50/>
-</a>
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/">
+    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=50 height=50/>
+  </a>
+  
+  <!-- Java -->
+  <a href="https://www.java.com/">
+    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50 height=50/>
+  </a>
+  
+  <!-- Spring -->
+  <a href="https://spring.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width=50 height=50/>
+  </a>
+  
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=50 height=50/>
+  </a>   
+  
+  <!-- NestJS -->
+  <a href="https://nestjs.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width=50 height=50/>
+  </a>
+  
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=50 height=50/>
+  </a>
 
-<!-- Java -->
-<a href="https://www.java.com/">
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50 height=50/>
-</a>
-
-<!-- Android Studio -->
-<a href="https://developer.android.com/studio">
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=50 height=50/>
-</a>
-
-<!-- Android -->
-<a href="https://www.android.com/">
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width=50 height=50/>
-</a>   
-
-<!-- Firebase -->
-<a href="https://firebase.google.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=50 height=50/>
-</a>   
-
-
-  ## Entre em contato:
+## Entre em contato:
 
   <!-- WhatsApp -->
   <a href="https://api.whatsapp.com/send?phone=5561995165656&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20pelo%20seu%20perfil%20do%20GitHub!">
